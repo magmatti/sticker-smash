@@ -120,7 +120,7 @@ export default function App() {
           </View>
         )}
         
-        <StatusBar style="auto" />
+        <StatusBar backgroundColor='#25292e' style="light" />
       </View>
     </GestureHandlerRootView>
   );
